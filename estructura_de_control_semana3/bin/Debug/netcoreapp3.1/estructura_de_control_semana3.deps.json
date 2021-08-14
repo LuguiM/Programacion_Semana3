@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "estructura_de_control_semana3/1.0.0": {
+        "runtime": {
+          "estructura_de_control_semana3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estructura_de_control_semana3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
